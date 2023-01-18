@@ -1,5 +1,5 @@
-<p align="center"> <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif?cid=ecf05e47k4k9o7hngrkkbutpkylc8tlpdbkxx8tzep0s73ej&rid=giphy.gif&ct=g">
-</p>
+<!--<p align="center"> <img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/kQ3FSVoJrkYWk/giphy.gif?cid=ecf05e47k4k9o7hngrkkbutpkylc8tlpdbkxx8tzep0s73ej&rid=giphy.gif&ct=g"> 
+</p> -->
 <h1 align="center">Hi 👋, I'm AlterEgo16</h1>
 <h3 align="center">This is my learning repository.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/udK21RQeWtaGQ/giphy.gif?cid=790b76115f861fac098d4a81ebdc927badbf2f082c765e15&rid=giphy.gif&ct=g">
